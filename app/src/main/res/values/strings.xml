@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_name">All Tasks</string>
+    <string-array name="task_status">
+        <item>Finished</item>
+        <item>Delay</item>
+        <item>On Time</item>
+        <item>Future</item>
+    </string-array>
+    <string name="title_activity_task_detail">Task Detail</string>
+</resources>
